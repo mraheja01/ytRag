@@ -11,7 +11,7 @@ This project allows you to input a YouTube video link, and it provides a compreh
 
 ## How to Use ⚙️
 
-• Clone this repository: `git clone https://github.com/pr0x7/ytRAG.git`
+• Clone this repository: `git clone https://github.com/mraheja01/ytRag.git`
 
 • Install the required dependencies: `pip install -r requirements.txt`
 
